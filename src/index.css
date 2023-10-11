@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn div{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.banderas{
+    gap: 20px;
+    margin-bottom: 20px;
+}
+.img-banderas{
+    border-radius: 50%;
+}
+.img-prof div{
+    margin: 0 auto;
+}
