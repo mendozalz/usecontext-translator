@@ -6,7 +6,7 @@ Aprendizaje y uso del Hook useContext - PoC de JAB
   <img src="https://i.ibb.co/CK8Lb24/use-Context-Traductor.gif" alt="Lección #7" />
 </p>
 
-Ver en [netlify](https://useeffect-jab.netlify.app/)
+Ver en [netlify](https://usecontext-translator.netlify.app/)
 
 Retomando React con [JAB | video](https://www.youtube.com/watch?v=Ihn2vV0cbDQ&list=PLRM7PpbqqStKo-NiCuzuYwewZmd9b-EZ9&index=7)
 
