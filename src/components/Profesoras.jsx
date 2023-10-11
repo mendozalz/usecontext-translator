@@ -9,7 +9,7 @@ function Profesoras() {
   return (
     <div className='img-prof'>
         <Image
-          alt="Card background"
+          alt="card background"
           className="object-cover rounded"
           src={foto}
           width={270}
