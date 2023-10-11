@@ -1,6 +1,6 @@
 import React, { useState, useContext } from 'react'
-import {CardHeader} from "@nextui-org/react";
 import Contexto from "../contexto/Contexto";
+import {CardHeader} from "@nextui-org/react";
 
 function Direccion() {
     const {valores} = useContext(Contexto)
