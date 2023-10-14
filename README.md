@@ -3,7 +3,7 @@
 Aprendizaje y uso del Hook useContext - PoC de JAB
 
 <p align="center">
-  <img src="https://i.ibb.co/CK8Lb24/use-Context-Traductor.gif" alt="Lección #7" />
+  <img src="https://i.ibb.co/kDXYhVY/use-Context-Traductor.gif" alt="Lección #7" />
 </p>
 
 Ver en [netlify](https://usecontext-translator.netlify.app/)

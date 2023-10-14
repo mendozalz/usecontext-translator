@@ -5,7 +5,7 @@ import Contexto from "../contexto/Contexto";
 function Profesoras() {
     const {valores} = useContext(Contexto)
     const idioma = valores[3].idioma
-    const foto = `../public/${valores[idioma].foto}`
+    const foto = `/public/${valores[idioma].foto}`
   return (
     <div className='img-prof'>
         <Image
